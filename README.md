@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anuj%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=Anuj%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 👋 Hi, I'm Anuj Verma
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-verma2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Anuj%20Verma-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Anuj%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" />
 </p>
 
 ---
@@ -39,14 +39,6 @@
 * 🧬 Deep Learning (Neural Networks, CNNs)
 * 🔥 PyTorch & TensorFlow
 * 📈 Model Training & Optimization
-
----
-
-## 🚀 Featured Projects
-
-* 🔹 **House Price Prediction**
-* 🔹 **Image Classification (CNN)**
-* 🔹 **Spam Detection (NLP)**
 
 ---
 
@@ -70,4 +62,3 @@
 ## ✨ Fun Fact
 
 > I love building intelligent systems using AI 🚀
-
