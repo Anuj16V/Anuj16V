@@ -1,16 +1,73 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anuj%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**Anuj16V/Anuj16V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Anuj Verma
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Deep+Learning+Explorer;Python+Developer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about **Machine Learning & Deep Learning**
+💻 Working with **Python, C++ & AI technologies**
+📫 Reach me at: **[av123anujverma@gmail.com](mailto:av123anujverma@gmail.com)**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuj-verma2004">
+    <img src="https://img.shields.io/badge/LinkedIn-Anuj%20Verma-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark" />
+</p>
+
+---
+
+## 🧠 Machine Learning & Deep Learning
+
+* 📊 Data Analysis & Visualization
+* 🤖 Machine Learning Algorithms
+* 🧬 Deep Learning (Neural Networks, CNNs)
+* 🔥 PyTorch & TensorFlow
+* 📈 Model Training & Optimization
+
+---
+
+## 🚀 Featured Projects
+
+* 🔹 **House Price Prediction**
+* 🔹 **Image Classification (CNN)**
+* 🔹 **Spam Detection (NLP)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuj16V&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj16V&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anuj16V/Anuj16V/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> I love building intelligent systems using AI 🚀
+
